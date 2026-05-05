@@ -25,7 +25,7 @@ pip install reportlab
 ### Run
 
 ```bash
-python checklist_generator.py server_checklist.md
+python checklist_generator.py checklist.md
 ```
 
 ## Perfect for:
