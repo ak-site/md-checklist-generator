@@ -58,6 +58,7 @@ python checklist_generator.py server_checklist.md
 - [ ] Update kernel
 - [x] Clear old logs
 - [ ] Reboot server
+```
 
 ## License
 
